@@ -1,6 +1,5 @@
 # Restaurant_Dashboard
-
-##Installation Guide
+## Installation Guide
 
 A. Install XAMPP and Composer from https://www.apachefriends.org/ and https://getcomposer.org/download/ respectively.
 Or user can also install PHP and Composer only.
